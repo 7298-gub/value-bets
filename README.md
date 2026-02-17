@@ -4,7 +4,7 @@ Betting picks for matches with kickoff times between 00:00 UTC and 11:59 UTC
 
 ## Daily Notification Schedule
 - **Email sent at:** 00:00 UTC (Midnight)
-- **Pick kickoff timeline:** 00:00 - 11:59 UTC
+- **Pick kickoff timeline:** 00:00 - 11:59Hrs
 - **Frequency:** Daily
 
 ## How to Track Your Picks
